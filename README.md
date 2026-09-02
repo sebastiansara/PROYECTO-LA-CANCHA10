@@ -60,3 +60,5 @@ cancha10-frontend/
 
 Flexbox Froggy: pendiente de completar por el equipo antes de la entrega — la captura final
 va en `APRENDIZAJES.md` (jugarlo en https://flexboxfroggy.com/#es).
+<img width="1710" height="1112" alt="image" src="https://github.com/user-attachments/assets/f1a9ad59-e2a1-460b-9ca8-9a2bfab89da6" />
+
