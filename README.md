@@ -3,7 +3,7 @@
 Entregable semanal de **Desarrollo Frontend** — Semana 3: *Fundamentos de CSS y Layouts Responsivos*.
 
 **Integrantes:** Sebastian Andres Sara · Fabian Andres Corpas
-**Corporación Colombo — Cartagena**
+**Universidad Tecnologica De Bolivar — Cartagena**
 
 ## ¿Qué es esto?
 
